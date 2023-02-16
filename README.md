@@ -60,22 +60,22 @@
     
 - **Data Analysis**:
 
-   ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server%20-%2314354C.svg?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white)
+   ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%2314354C.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
    ![NumPy](https://img.shields.io/badge/NumPy%20-%2314354C.svg?style=for-the-badge&logo=NumPy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/Pandas%20-%2314354C.svg?style=for-the-badge&logo=pandas&logoColor=white)
-   ![SSIS](https://img.shields.io/badge/SSIS%20-%2314354C.svg?style=for-the-badge&logo=Microsoft Access&logoColor=white)
-   ![SSAS](https://img.shields.io/badge/SSAS%20-%2314354C.svg?style=for-the-badge&logo=Microsoft Access&logoColor=white)
-   ![SSRS](https://img.shields.io/badge/SSRS%20-%2314354C.svg?style=for-the-badge&logo=Microsoft Access&logoColor=white)
-   ![Business Object](https://img.shields.io/badge/Business Object%20-%2314354C.svg?style=for-the-badge&logo=SAP&logoColor=white)
+   ![SSIS](https://img.shields.io/badge/SSIS%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+   ![SSAS](https://img.shields.io/badge/SSAS%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+   ![SSRS](https://img.shields.io/badge/SSRS%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+   ![BusinessObject](https://img.shields.io/badge/BusinessObject%20-%2314354C.svg?style=for-the-badge&logo=SAP&logoColor=white)
 
 <br>
 
 - **Data Visualization**:
 
-    ![Power BI](https://img.shields.io/badge/Power BI%20-%2314354C.svg?style=for-the-badge&logo=Power BI&logoColor=white)
+    ![PowerBI](https://img.shields.io/badge/PowerBI%20-%2314354C.svg?style=for-the-badge&logo=PowerBI&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib%20-%2314354C.svg?style=for-the-badge&logo=Soundcharts&logoColor=white)
-    ![Business Object WEBI](https://img.shields.io/badge/Business Object WEBI%20-%2314354C.svg?style=for-the-badge&logo=SAP&logoColor=white)
+    ![BusinessObject WEBI](https://img.shields.io/badge/BusinessObjectWEBI%20-%2314354C.svg?style=for-the-badge&logo=SAP&logoColor=white)
     
 <br>
 
@@ -83,11 +83,11 @@
 
     ![PL/SQL](https://img.shields.io/badge/PL/SQL%20-%2314354C.svg?style=for-the-badge&logo=Oracle&logoColor=white)
     ![ETL](https://img.shields.io/badge/ETL%20-%2314354C.svg?style=for-the-badge&logo=GoToMeeting&logoColor=white)
-    ![Data Warehouse](https://img.shields.io/badge/Data Warehouse%20-%2314354C.svg?style=for-the-badge&logo=MicroStrategy&logoColor=white)
-    ![Data Mining](https://img.shields.io/badge/Data Mining%20-%2314354C.svg?style=for-the-badge&logo=Icinga&logoColor=white)
-    ![Big Data Concepts](https://img.shields.io/badge/Big Data Concepts%20-%2314354C.svg?style=for-the-badge&logo=Server Fault&logoColor=white)
+    ![Data Warehouse](https://img.shields.io/badge/DataWarehouse%20-%2314354C.svg?style=for-the-badge&logo=MicroStrategy&logoColor=white)
+    ![DataMining](https://img.shields.io/badge/DataMining%20-%2314354C.svg?style=for-the-badge&logo=Icinga&logoColor=white)
+    ![BigDataConcepts](https://img.shields.io/badge/BigDataConcepts%20-%2314354C.svg?style=for-the-badge&logo=ServerFault&logoColor=white)
     ![NoSQL](https://img.shields.io/badge/NoSQL%20-%2314354C.svg?style=for-the-badge&logo=Osano&logoColor=white)
-    ![Apache Cassandra](https://img.shields.io/badge/Apache Cassandra%20-%2314354C.svg?style=for-the-badge&logo=Apache Cassandra&logoColor=white)
+    ![ApacheCassandra](https://img.shields.io/badge/ApacheCassandra%20-%2314354C.svg?style=for-the-badge&logo=ApacheCassandra&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2314354C.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 <br>
@@ -112,8 +112,8 @@
  
  - **Server Administrations**:
 
-    ![Linux Red Hat](https://img.shields.io/badge/Linux Red Hat%20-%2314354C.svg?style=for-the-badge&logo=Red Hat&logoColor=white)
-    ![Bash Scripting](https://img.shields.io/badge/Bash Scripting%20-%2314354C.svg?style=for-the-badge&logo=Linux&logoColor=white)
+    ![Linux Red Hat](https://img.shields.io/badge/LinuxRedHat%20-%2314354C.svg?style=for-the-badge&logo=RedHat&logoColor=white)
+    ![Bash Scripting](https://img.shields.io/badge/BashScripting%20-%2314354C.svg?style=for-the-badge&logo=Linux&logoColor=white)
     
 <br>
  
@@ -121,13 +121,18 @@
 
     ![Git](https://img.shields.io/badge/Git%20-%2314354C.svg?style=for-the-badge&logo=Git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub%20-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-    ![Virtual Machines](https://img.shields.io/badge/Virtual Machines%20-%2314354C.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
+    ![Virtual Machines](https://img.shields.io/badge/VirtualMachines%20-%2314354C.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
     
 <br>
  
  - **Microsoft Office Tools**:
 
-    ![Microsoft Excel](https://img.shields.io/badge/Microsoft Excel%20-%2314354C.svg?style=for-the-badge&logo=Microsoft Excel&logoColor=white)
+    ![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
+    ![Microsoft PowerPoint](https://img.shields.io/badge/MicrosoftPowerPoint%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
+    ![Microsoft Word](https://img.shields.io/badge/MicrosoftWord%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
+    ![Microsoft Project](https://img.shields.io/badge/MicrosoftOffice%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
+    ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote%20-%2314354C.svg?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
+	 
  
  </p>
  </samp>
