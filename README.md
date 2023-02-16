@@ -55,7 +55,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![GOLANG](https://img.shields.io/badge/GOLANG-298D46?style=for-the-badge&logo=GoLand&logoColor=white)
     ![Solidity](https://img.shields.io/badge/Solidity-2C4F7C?style=for-the-badge&logo=Solidity&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=Scala&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Scala&logoColor=white)
    
 
 <br>   
