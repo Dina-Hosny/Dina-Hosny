@@ -50,11 +50,11 @@
 - **Programming Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-EE4C2C?style=for-the-badge&logo=CoffeeScript&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![GOLANG](https://img.shields.io/badge/GOLANG%20-%2314354C.svg?style=for-the-badge&logo=GoLand&logoColor=white)
-    ![Solidity](https://img.shields.io/badge/Solidity%20-%2314354C.svg?style=for-the-badge&logo=Solidity&logoColor=white)
+    ![GOLANG](https://img.shields.io/badge/GOLANG-298D46?style=for-the-badge&logo=GoLand&logoColor=white)
+    ![Solidity](https://img.shields.io/badge/Solidity-2C4F7C?style=for-the-badge&logo=Solidity&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=Scala&logoColor=white)
    
 
