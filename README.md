@@ -134,7 +134,7 @@
     ![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
     ![Microsoft PowerPoint](https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
     ![Microsoft Word](https://img.shields.io/badge/MicrosoftWord-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
-    ![Microsoft Project](https://img.shields.io/badge/MicrosoftOffice-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
+    ![Microsoft Project](https://img.shields.io/badge/MicrosoftProject-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
     ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote-7719AA?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 	 
  
